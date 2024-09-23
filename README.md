@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **MLOps, DataCentric AI, Computer Vision**
 
-- 📝 I regularly write articles on [https://medium.com/@golcukbahadir](https://medium.com/@golcukbahadir)
-
 - 💬 Ask me about **Python, Tensorflow, Object Detection, Entrepreneurship**
 
 - 💡 My paper [Defect Detection on Steel Surface with Deep Active Learning Methods on Fewer Data](https://link.springer.com/chapter/10.1007/978-3-031-31956-3_47)
