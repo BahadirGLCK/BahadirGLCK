@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
-![Dash-Plotly](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=dash&logoColor=white)
+![DashPlotly](https://img.shields.io/badge/DashPlotly-000000?style=for-the-badge&logo=dash&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
