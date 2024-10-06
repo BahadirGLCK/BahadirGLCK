@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MLOps, DataCentric AI, Computer Vision**
 
-- 💬 Ask me about **Python, Tensorflow, Object Detection, Entrepreneurship**
+- 💬 Ask me about **Python, Tensorflow, Computer Vision, Entrepreneurship**
 
 - 💡 My paper [Defect Detection on Steel Surface with Deep Active Learning Methods on Fewer Data](https://link.springer.com/chapter/10.1007/978-3-031-31956-3_47)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/bahadirgolcuk/](linkedin.com/in/bahadirgolcuk/)
 
-- ⚡ Fun fact **I think I'm dedicated person. I'm trying to do something good.**
+- ⚡ Fun fact **I think I'm a dedicated person. I'm trying to do something good.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
