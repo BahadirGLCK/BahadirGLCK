@@ -9,7 +9,7 @@
 
 - 💡 My paper [Defect Detection on Steel Surface with Deep Active Learning Methods on Fewer Data](https://link.springer.com/chapter/10.1007/978-3-031-31956-3_47)
 
-- 🎯 Startup exit story [Story here](https://www.smartex.ai/post/acquiring-tuvis-and-opening-a-tech-center)
+- 🎯 My Startup exit story [Story here](https://www.smartex.ai/post/acquiring-tuvis-and-opening-a-tech-center)
 
 - 📫 How to reach me **bahadirgolcuk@gmail.com**
 
